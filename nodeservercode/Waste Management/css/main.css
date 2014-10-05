@@ -1,0 +1,47 @@
+.container{
+	margin-top: 50px;
+}
+
+/* About Page */
+.about-img-container{
+	margin-top:20px;
+}
+
+.about-img-container img{
+	float:left;
+	height: 140px;
+	width:140px;
+}
+
+.about-img-container .caption{
+	float:left;
+}
+
+.about-img-container > div{
+	margin-top:10px;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#map-canvas {
+    height: 100%;
+    width: 50%;
+}
+#geoMap {
+	float:right;
+	width:48%;
+	padding-left: 2%;
+}
+
+#outputDiv {
+	font-size: 11px;
+}
+/* Analytics Page */
+
+#main #sequence{
+	margin-top: 20px;
+}

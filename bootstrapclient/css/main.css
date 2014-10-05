@@ -1,0 +1,28 @@
+.container{
+	margin-top: 50px;
+}
+
+/* About Page */
+.about-img-container{
+	margin-top:20px;
+}
+
+.about-img-container img{
+	float:left;
+	height: 140px;
+	width:140px;
+}
+
+.about-img-container .caption{
+	float:left;
+}
+
+.about-img-container > div{
+	margin-top:10px;
+}
+
+/* Analytics Page */
+
+#main #sequence{
+	margin-top: 20px;
+}
